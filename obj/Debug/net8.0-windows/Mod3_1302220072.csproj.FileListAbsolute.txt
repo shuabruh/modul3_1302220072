@@ -1,0 +1,17 @@
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.Form1.resources
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.csproj.GenerateResource.cache
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.AssemblyInfoInputs.cache
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.AssemblyInfo.cs
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.csproj.CoreCompileInputs.cache
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.sourcelink.json
+D:\Mod3_1302220072\Mod3_1302220072\bin\Debug\net8.0-windows\Mod3_1302220072.exe
+D:\Mod3_1302220072\Mod3_1302220072\bin\Debug\net8.0-windows\Mod3_1302220072.deps.json
+D:\Mod3_1302220072\Mod3_1302220072\bin\Debug\net8.0-windows\Mod3_1302220072.runtimeconfig.json
+D:\Mod3_1302220072\Mod3_1302220072\bin\Debug\net8.0-windows\Mod3_1302220072.dll
+D:\Mod3_1302220072\Mod3_1302220072\bin\Debug\net8.0-windows\Mod3_1302220072.pdb
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.dll
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\refint\Mod3_1302220072.dll
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.pdb
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\Mod3_1302220072.genruntimeconfig.cache
+D:\Mod3_1302220072\Mod3_1302220072\obj\Debug\net8.0-windows\ref\Mod3_1302220072.dll
